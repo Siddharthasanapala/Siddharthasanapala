@@ -269,7 +269,7 @@ expertise = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=900&height=70&lines=💼+Production-Ready+Applications;🏆+Real-World+Impact+Projects;⚡+Performance+%26+Scalability+Focus" alt="Projects Title" />
