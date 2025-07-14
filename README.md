@@ -442,6 +442,7 @@ observability_stack = {
 <td width="50%">
 
 ### 🎯 Project Overview
+
 > *A comprehensive Blood Donation Management System built with Django REST Framework, connecting donors with recipients, Blood Banks through secure, scalable backend infrastructure.*
 
 <div align="center">
@@ -451,6 +452,7 @@ observability_stack = {
 </div>
 
 ### 🏆 Key Achievements
+
 - ⚡ 99% Uptime - Production-ready backend infrastructure
 - 🔒 Zero Security Breaches - JWT authentication & authorization
 - 👥 100+ Concurrent Users - Optimized performance handling
@@ -473,11 +475,13 @@ observability_stack = {
 </div>
 
 ### 📝 System Architecture
+
 <div align="center">
   <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
 </div>
 
 ### 🚀 Key Features & Impact
+
 - Advanced Security Layer with custom throttling & rate limiting
 - RESTful API Design following OpenAPI specifications
 - Database Optimization with query performance tuning
@@ -499,6 +503,7 @@ observability_stack = {
 <td width="50%">
 
 ### 🎯 Project Overview
+
 > *A powerful Enterprise Email Campaign Platform designed for businesses to manage large-scale email marketing campaigns with advanced analytics and automation features.*
 
 <div align="center">
@@ -508,6 +513,7 @@ observability_stack = {
 </div>
 
 ### 🏆 Key Achievements
+
 - 📊 Excel Integration - Seamless bulk email list management
 - 🔐 80% Lockout Reduction - Advanced OTP recovery system
 - ☁ Scalable Architecture - Cloud-native deployment
@@ -529,6 +535,7 @@ observability_stack = {
 </div>
 
 ### Platform Components
+
 ```
 platform = {
     "email_engine": "Custom Django email backend",
@@ -540,6 +547,7 @@ platform = {
 ```
 
 ### Advanced Features
+
 ```
 features = [
     "⚡ Bulk Email Processing Engine",
@@ -551,6 +559,7 @@ features = [
 ```
 
 ### 🚀 Business Impact
+
 - Streamlines Marketing Workflows for enterprise clients
 - Reduces Manual Effort by 80% in campaign management
 - Improves Delivery Rates with intelligent sending algorithms
@@ -570,7 +579,7 @@ features = [
 # 💼 Professional Experience
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=60&lines=💻+Building+Production+Systems;🚀+Optimizing+Performance;🛡+Securing+Applications;☁+Cloud+Architecture+Expert" alt="Experience Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=60&lines=💻+Building+Production+Systems;🚀+Optimizing+Performance;🛡+Securing+Applications;☁+Cloud+Architecture+Expert" alt="Experience Title" />
 </div>
 
 <div align="center">
@@ -583,13 +592,21 @@ features = [
 <tr>
 <td width="35%" align="center">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
-    <br/>
-    <h4>🚀 Backend Development Excellence</h4>
-    <img src="https://img.shields.io/badge/Performance-20%25_Boost-brightgreen?style=for-the-badge&logo=speedtest"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Users-100%2B_Active-blue?style=for-the-badge&logo=users"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250"/>
   </div>
+
+### 🔧 Technology Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-2168a3?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-033824?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-02ebb5?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0239a8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-630202?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=green"/>
+</div>
+
+  
 </td>
 <td width="65%">
 
@@ -615,17 +632,6 @@ features = [
 - Implemented advanced indexing strategies and caching mechanisms
 - Designed efficient database schemas for scalable data management
 
-### 🏆 Technical Achievements
-```python
-achievements = {
-    "performance_boost": "20% faster response times",
-    "concurrent_users": "100+ simultaneous connections",
-    "api_uptime": "99.9% availability",
-    "security_incidents": "0 breaches",
-    "database_optimization": "30% query speed improvement"
-}
-```
-
 </td>
 </tr>
 </table>
@@ -634,19 +640,28 @@ achievements = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## ☁ AWS Cloud Intern | Brainovision Solutions
+## ☁ AWS Intern | Brainovision Solutions
 
 <table>
 <tr>
 <td width="35%" align="center">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="250"/>
-    <br/>
-    <h4>☁ Cloud Architecture Specialist</h4>
-    <img src="https://img.shields.io/badge/Applications-5%2B_Deployed-orange?style=for-the-badge&logo=aws"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Uptime-100%25_Availability-success?style=for-the-badge&logo=cloudwatch"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250"/>
   </div>
+
+### 🔧 Technology Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EC2-2168a3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S3-033824?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RDS-02ebb5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPC-0239a8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IAM-630202?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ELB-035c15?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ECR-470466?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASG-664704?style=for-the-badge"/>
+</div>
+  
 </td>
 <td width="65%">
 
@@ -662,25 +677,11 @@ achievements = {
 - Achieved 100% application availability during critical deployment periods
 - Implemented automated alerting and incident response workflows
 
-🐳 Containerization & Registry Management
-- Containerized applications using Docker with multi-stage builds
-- Managed container images efficiently with Amazon ECR
-- Achieved 95% reduction in deployment time through container automation
-
 🔄 DevOps Pipeline Automation
 - Built automated CI/CD pipelines using AWS CodePipeline and CodeBuild
 - Implemented Infrastructure as Code (IaC) with CloudFormation templates
 - Delivered 50% faster deployment cycles with automated testing and deployment
 
-### 🏆 Cloud Achievements
-```python
-cloud_impact = {
-    "applications_deployed": "5+ production systems",
-    "availability_achieved": "100% uptime",
-    "deployment_optimization": "95% time reduction",
-    "pipeline_efficiency": "50% faster releases",
-}
-```
 </td>
 </tr>
 </table>
@@ -699,17 +700,20 @@ cloud_impact = {
 
 # 🎉 Let's Connect!
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:siddharthasanapala136@example.com">
+    <img src="https://img.shields.io/badge/Email-bf1802?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/siddharthasanapala">
+    <img src="https://img.shields.io/badge/LinkedIn-05689c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/siddharthasanapala">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  <a href="https://wa.me/917396846083">
+    <img src="https://img.shields.io/badge/Whatsapp-056e17?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/siddhu_136/">
+    <img src="https://img.shields.io/badge/Leetcode-5703ab?style=for-the-badge&logo=leetcode&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
