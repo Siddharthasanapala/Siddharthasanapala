@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=32&fontColor=000505&animation=twinkling" width="100%">
 </div>
 
 # 👨‍💻SIDDHARTHA SANAPALA
@@ -25,24 +25,180 @@
 <td width="65%" valign="top">
 
 ## 🔥 Passionate Python Backend Developer
-I specialize in building scalable, secure, and high-performance systems that solve complex real-world challenges. With deep expertise in Django and Django REST Framework (DRF), I architect enterprise-grade backend solutions.
+> *I'm Siddhartha Sanapala, a backend developer skilled in Python, Django, REST APIs, and cloud technologies like AWS and Docker. I build secure, scalable systems with a strong focus on clean architecture, CI/CD automation, and real-world reliability.From developing full-stack platforms like RaktaPraptih to streamlining bulk email tools like SendMailz, I turn ideas into robust applications. I enjoy solving complex problems, optimizing backend logic, and working with modern DevOps workflows.Always learning, always building I'm driven by impact, scalability, and continuous improvement.*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,kubernetes,aws,git" />
 </div>
 
-#### ⚡ Core Expertise:
+---
+
+## 💼 **Specialized Domains**
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/⚙️_Backend_Architecture-8a0303?style=for-the-badge&logo=server&logoColor=white" alt="Backend Architecture"/>
+</summary>
+<br>
+
 ```python
-expertise = {
-    "🏗 Architecture": "RESTful APIs with enterprise design patterns",
-    "🔐 Security": "JWT, OAuth2, custom authentication systems", 
-    "🗄 Databases": "PostgreSQL optimization & scaling strategies",
-    "🐳 DevOps": "Docker, Kubernetes, CI/CD automation",
-    "☁ Cloud": "AWS full-stack architecture & deployment",
-    "⚡ Performance": "Redis caching, monitoring, optimization",
-    "🛡 Monitoring": "Sentry integration, error tracking"
+backend_expertise = {
+    "frameworks": ["Django", "Django REST Framework", "FastAPI"],
+    "architecture": ["RESTful APIs", "Microservices", "Event-driven design"],
+    "patterns": ["Repository", "Factory", "Singleton", "Observer"],
+    "scalability": "Production-grade systems handling 10k+ requests/min"
 }
 ```
+
+**Key Achievements:**
+- 🔥 Built scalable APIs serving **100+ concurrent users**
+- 🏗️ Implemented **modular architecture** reducing code duplication by 40%
+- 🚀 Optimized response times from **500ms to 150ms**
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🔐_Security_&_Auth-4b007d?style=for-the-badge&logo=shield&logoColor=white" alt="Security & Auth"/>
+</summary>
+<br>
+
+```python
+security_stack = {
+    "authentication": ["JWT", "OAuth2", "Session-based"],
+    "authorization": ["Role-based access control", "Permission systems"],
+    "protection": ["Rate limiting", "Throttling", "CSRF protection"],
+    "monitoring": ["Sentry integration", "Security audits", "Vulnerability scanning"]
+}
+```
+
+**Security Implementations:**
+- 🛡️ **Multi-layer authentication** with JWT refresh tokens
+- 🔒 **Role-based permissions** for enterprise applications
+- 📊 **Rate limiting** preventing abuse (1000 req/hour per user)
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🗃_Database_Engineering-036f87?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Engineering"/>
+</summary>
+<br>
+
+```python
+database_expertise = {
+    "primary": ["PostgreSQL", "MySQL"],
+    "cloud": ["Supabase", "AWS RDS"],
+    "optimization": ["Query optimization", "Index strategies", "Connection pooling"],
+    "modeling": ["Normalized schemas", "Data relationships", "Performance tuning"]
+}
+```
+
+**Database Achievements:**
+- ⚡ **Query optimization** reducing execution time by 60%
+- 📈 **Scalable schemas** supporting millions of records
+- 🔄 **Real-time subscriptions** with Supabase integration
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🔄️_DevOps_&_CI/CD-210909?style=for-the-badge&logo=github-actions&logoColor=white" alt="DevOps & CI/CD"/>
+</summary>
+<br>
+
+```python
+devops_pipeline = {
+    "containerization": ["Docker", "Docker Compose", "Multi-stage builds"],
+    "ci_cd": ["GitHub Actions", "Automated testing", "Deployment automation"],
+    "platforms": ["Render", "Vercel", "Railway", "AWS"],
+    "monitoring": ["Health checks", "Automated rollbacks", "Performance alerts"]
+}
+```
+
+**DevOps Highlights:**
+- 🐳 **Containerized deployments** with 99.9% uptime
+- 🔄 **Automated pipelines** reducing deployment time by 80%
+- 📊 **Zero-downtime deployments** with health monitoring
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/☁_Cloud_Infrastructure-83a807?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="Cloud Infrastructure"/>
+</summary>
+<br>
+
+```python
+aws_services = {
+    "compute": ["EC2", "Auto Scaling Groups", "Lambda"],
+    "storage": ["S3", "EBS", "CloudFront CDN"],
+    "database": ["RDS", "DynamoDB"],
+    "networking": ["VPC", "ELB", "Route 53"],
+    "monitoring": ["CloudWatch", "CloudTrail", "Systems Manager"]
+}
+```
+
+**Cloud Architecture:**
+- 🌐 **Multi-AZ deployments** with auto-scaling
+- 📦 **S3 + CloudFront** for global content delivery
+- 🔍 **CloudWatch monitoring** with custom metrics
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/📈_Performance_Tuning-b85d02?style=for-the-badge&logo=speedtest&logoColor=white" alt="Performance Tuning"/>
+</summary>
+<br>
+
+```python
+performance_optimizations = {
+    "api_optimization": ["Response caching", "Database query optimization", "Async processing"],
+    "concurrency": ["Thread pools", "Connection pooling", "Load balancing"],
+    "monitoring": ["Performance profiling", "Bottleneck identification", "Resource utilization"],
+    "scalability": "Stable performance under 100+ concurrent users"
+}
+```
+
+**Performance Metrics:**
+- ⚡ **API response time**: < 200ms average
+- 🎯 **Concurrent users**: 100+ with stable performance
+- 📊 **Memory optimization**: 30% reduction in resource usage
+
+</details>
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🛡_Observability-0306a6?style=for-the-badge&logo=sentry&logoColor=white" alt="Observability"/>
+</summary>
+<br>
+
+```python
+observability_stack = {
+    "error_tracking": ["Sentry", "Custom logging", "Error alerting"],
+    "testing": ["Pytest", "Unit tests", "Integration tests", "Coverage reports"],
+    "security": ["Bandit", "Security scanning", "Vulnerability assessment"],
+    "monitoring": ["Performance metrics", "Health checks", "Uptime monitoring"]
+}
+```
+
+**Quality Assurance:**
+- 🔍 **Real-time error tracking** with Sentry integration
+- ✅ **90%+ test coverage** with comprehensive test suites
+- 🛡️ **Security scanning** with automated vulnerability checks
+
+</details>
+
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 
 #### 🎯 Current Status:
 <div align="center">
@@ -78,7 +234,7 @@ expertise = {
 # 🛠 Technical Arsenal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🔧+Advanced+Technology+Stack;⚡+Production-Grade+Tools;🚀+Cloud-Native+Solutions" alt="Tech Stack Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🔧+Advanced+Technology+Stack;⚡+Production-Grade+Tools;🚀+Cloud-Native+Solutions" alt="Tech Stack Title" />
 </div>
 
 <div align="center">
@@ -269,30 +425,32 @@ expertise = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 </div>
 
-## Featured Projects
+# 💡 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=900&height=70&lines=💼+Production-Ready+Applications;🏆+Real-World+Impact+Projects;⚡+Performance+%26+Scalability+Focus" alt="Projects Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=900&height=70&lines=💼+Production-Ready+Applications;🏆+Real-World+Impact+Projects;⚡+Performance+%26+Scalability+Focus" alt="Projects Title" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🩸 RaktaPraptih - Blood Donation Management System
+## 🩸 RaktaPraptih - Blood Donation Management System
 
 <table>
 <tr>
 <td width="50%">
 
+### 🎯 Project Overview
+> *A comprehensive Blood Donation Management System built with Django REST Framework, connecting donors with recipients, Blood Banks through secure, scalable backend infrastructure.*
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+  <a href="https://raktapraptih-latest.onrender.com/">
+    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+  </a>
 </div>
 
-#### 🎯 Project Overview
-A comprehensive Blood Donation Management System built with Django REST Framework, connecting donors with recipients through secure, scalable backend infrastructure.
-
-#### 🏆 Key Achievements
+### 🏆 Key Achievements
 - ⚡ 99% Uptime - Production-ready backend infrastructure
 - 🔒 Zero Security Breaches - JWT authentication & authorization
 - 👥 100+ Concurrent Users - Optimized performance handling
@@ -303,43 +461,26 @@ A comprehensive Blood Donation Management System built with Django REST Framewor
 </td>
 <td width="50%">
 
-#### 🔧 Tech Stack Implementation
+### 🔧 Tech Stack Implementation
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-024a2f?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-02ebb5?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0688c7?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-a80a05?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-59059e?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 </div>
 
-#### 🏗 Technical Implementation
-python
-# System Architecture
-architecture = {
-    "🔐 Authentication": "JWT with custom middleware",
-    "👥 User Management": "Role-based access control", 
-    "🩸 Blood Matching": "Algorithm-based donor matching",
-    "📊 Real-time Dashboard": "WebSocket integration",
-    "📧 Notifications": "Celery async task queue",
-    "🔄 CI/CD": "99 automated workflows",
-    "🐳 Deployment": "Docker + Cloud hosting"
-}
+### 📝 System Architecture
+<div align="center">
+  <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+</div>
 
-# Performance Metrics
-performance = {
-    "response_time": "< 200ms average",
-    "concurrent_users": "100+ simultaneous",
-    "uptime": "99.9% availability",
-    "error_rate": "< 0.1% system errors"
-}
-
-
-#### 🚀 Key Features & Impact
+### 🚀 Key Features & Impact
 - Advanced Security Layer with custom throttling & rate limiting
 - RESTful API Design following OpenAPI specifications
 - Database Optimization with query performance tuning
-- Real-time Notifications for urgent blood requests
 - Comprehensive Testing with 90%+ code coverage
 - Production Monitoring with logging & health checks
 
@@ -351,20 +492,22 @@ performance = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📧 Sendmailz - Enterprise Email Campaign Platform
+## 📧 Sendmailz - Enterprise Email Campaign Platform
 
 <table>
 <tr>
 <td width="50%">
 
+### 🎯 Project Overview
+> *A powerful Enterprise Email Campaign Platform designed for businesses to manage large-scale email marketing campaigns with advanced analytics and automation features.*
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+  <a href="https://raktapraptih-latest.onrender.com/">
+    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+  </a>
 </div>
 
-#### 🎯 Project Overview
-A powerful Enterprise Email Campaign Platform designed for businesses to manage large-scale email marketing campaigns with advanced analytics and automation features.
-
-#### 🏆 Key Achievements
+### 🏆 Key Achievements
 - 📊 Excel Integration - Seamless bulk email list management
 - 🔐 80% Lockout Reduction - Advanced OTP recovery system
 - ☁ Scalable Architecture - Cloud-native deployment
@@ -375,42 +518,39 @@ A powerful Enterprise Email Campaign Platform designed for businesses to manage 
 </td>
 <td width="50%">
 
-#### 🔧 Technology Stack
+### 🔧 Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-2168a3?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-033824?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0239a8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-630202?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=green"/>
 </div>
 
-#### 🏗 System Architecture
-python
-# Platform Components
+### Platform Components
+```
 platform = {
     "email_engine": "Custom Django email backend",
     "database": "PostgreSQL with Supabase cloud",
     "file_processing": "Excel/CSV bulk import system",
     "authentication": "OTP-based user recovery",
     "deployment": "Vercel serverless platform",
-    "monitoring": "Real-time campaign analytics"
 }
+```
 
-# Advanced Features
+### Advanced Features
+```
 features = [
     "⚡ Bulk Email Processing Engine",
-    "📊 Advanced Campaign Analytics", 
     "🔄 Automated Email Scheduling",
     "📈 Deliverability Rate Optimization",
     "🛡 Anti-Spam Compliance System",
     "👥 Multi-tenant User Management"
 ]
+```
 
-
-#### 🚀 Business Impact
+### 🚀 Business Impact
 - Streamlines Marketing Workflows for enterprise clients
 - Reduces Manual Effort by 80% in campaign management
 - Improves Delivery Rates with intelligent sending algorithms
@@ -427,7 +567,7 @@ features = [
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=60&lines=💻+Building+Production+Systems;🚀+Optimizing+Performance;🛡+Securing+Applications;☁+Cloud+Architecture+Expert" alt="Experience Title" />
@@ -437,7 +577,7 @@ features = [
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🐍 Python Developer Intern | Jupitos Technologies LLC
+## 🐍 Python Developer Intern | Jupitos Technologies LLC
 
 <table>
 <tr>
@@ -453,7 +593,7 @@ features = [
 </td>
 <td width="65%">
 
-#### 🎯 Key Responsibilities & Impact
+### 🎯 Key Responsibilities & Impact
 
 🏗 Backend Architecture Development
 - Designed and implemented scalable backend systems serving 100+ concurrent users
@@ -475,7 +615,7 @@ features = [
 - Implemented advanced indexing strategies and caching mechanisms
 - Designed efficient database schemas for scalable data management
 
-#### 🏆 Technical Achievements
+### 🏆 Technical Achievements
 ```python
 achievements = {
     "performance_boost": "20% faster response times",
@@ -494,7 +634,7 @@ achievements = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### ☁ AWS Cloud Intern | Brainovision Solutions
+## ☁ AWS Cloud Intern | Brainovision Solutions
 
 <table>
 <tr>
@@ -510,7 +650,7 @@ achievements = {
 </td>
 <td width="65%">
 
-#### 🎯 Cloud Infrastructure & DevOps Excellence
+### 🎯 Cloud Infrastructure & DevOps Excellence
 
 ☁ AWS Cloud Architecture Mastery
 - Successfully deployed 5+ production applications on AWS infrastructure
@@ -532,7 +672,7 @@ achievements = {
 - Implemented Infrastructure as Code (IaC) with CloudFormation templates
 - Delivered 50% faster deployment cycles with automated testing and deployment
 
-#### 🏆 Cloud Achievements
+### 🏆 Cloud Achievements
 ```python
 cloud_impact = {
     "applications_deployed": "5+ production systems",
@@ -556,6 +696,23 @@ cloud_impact = {
     </tr>
   </table>
 </div>
+
+# 🎉 Let's Connect!
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%">
 </div>
