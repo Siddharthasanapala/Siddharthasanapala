@@ -6,7 +6,7 @@
 
 <div align="center">
   <span>
-    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/media/professional_peofile_pic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
   </span>
 <!--   <span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=250&height=25&lines=🐍+Python+Backend+Developer;🛠+Problem+Solver+%26+Innovator;☁+Cloud+Architecture+Expert" alt="Role Animation" />
@@ -447,13 +447,12 @@ observability_stack = {
 
 <div align="center">
   <a href="https://raktapraptih-latest.onrender.com/">
-    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/media/Raktapraptih_webpage.jpeg?raw=true" alt="Siddhartha Sanapala" width="550" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
 ### 🏆 Key Achievements
 
-- ⚡ 99% Uptime - Production-ready backend infrastructure
 - 🔒 Zero Security Breaches - JWT authentication & authorization
 - 👥 100+ Concurrent Users - Optimized performance handling
 - 🐳 95% Error Reduction - Docker containerization consistency
@@ -475,10 +474,16 @@ observability_stack = {
 </div>
 
 ### 📝 System Architecture
-
-<div align="center">
-  <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
-</div>
+```
+architecture = {
+    "🔐 Authentication": "JWT with custom middleware",
+    "👥 User Management": "Role-based access control", 
+    "🩸 Blood availability": "Donor & Blood Bank",
+    "📧 Notifications": "Twillo message",
+    "🔄 CI/CD": "100+ automated workflows",
+    "🐳 Deployment": "Docker + Render hosting"
+}
+```
 
 ### 🚀 Key Features & Impact
 
@@ -508,7 +513,7 @@ observability_stack = {
 
 <div align="center">
   <a href="https://raktapraptih-latest.onrender.com/">
-    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/profilepic.jpg?raw=true" alt="Siddhartha Sanapala" width="250" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
+    <img src="https://github.com/Siddharthasanapala/Siddharthasanapala/blob/siddhu/media/Sendmailz_webpage.jpeg?raw=true" alt="Siddhartha Sanapala" width="450" style="border: 4px solid #36BCF7; border-radius: 10px; display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
@@ -544,18 +549,6 @@ platform = {
     "authentication": "OTP-based user recovery",
     "deployment": "Vercel serverless platform",
 }
-```
-
-### Advanced Features
-
-```
-features = [
-    "⚡ Bulk Email Processing Engine",
-    "🔄 Automated Email Scheduling",
-    "📈 Deliverability Rate Optimization",
-    "🛡 Anti-Spam Compliance System",
-    "👥 Multi-tenant User Management"
-]
 ```
 
 ### 🚀 Business Impact
@@ -651,16 +644,14 @@ features = [
 
 ### 🔧 Technology Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/EC2-2168a3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S3-033824?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RDS-02ebb5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VPC-0239a8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IAM-630202?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ELB-035c15?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ECR-470466?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ASG-664704?style=for-the-badge"/>
-</div>
+![EC2](https://img.shields.io/badge/EC2-2168a3?style=for-the-badge)
+![ASG](https://img.shields.io/badge/ASG-664704?style=for-the-badge)
+![ELB](https://img.shields.io/badge/ELB-035c15?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0239a8?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-033824?style=for-the-badge)
+![ECR](https://img.shields.io/badge/ECR-470466?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-02ebb5?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-630202?style=for-the-badge)
   
 </td>
 <td width="65%">
@@ -689,7 +680,7 @@ features = [
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthasanapala&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&border_radius=15" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthasanapala&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&border_radius=10" alt="Top Languages" />
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddharthasanapala&theme=tokyonight" alt="Profile Summary" />
@@ -698,7 +689,9 @@ features = [
   </table>
 </div>
 
-# 🎉 Let's Connect!
+# 🎉 Let's Connect! 
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/>
+
 <div align="center">
   <a href="mailto:siddharthasanapala136@example.com">
     <img src="https://img.shields.io/badge/Email-bf1802?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
