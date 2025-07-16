@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Siddhartha Sanapala | Portfolio"
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=32&fontColor=000505&animation=twinkling" width="100%">
 </div>
